@@ -1,8 +1,8 @@
 {
   "sender": "Ilya Karabanov",
-  "receiver": "Ilya.Karabanov@ftrans.net",
-  "smtpuserid": "ilya.karabanov@ftrans.net",
+  "receiver": "Ilya.Karabanov@test.net",
+  "smtpuserid": "ilya.karabanov@test.net",
   "smtppassword": "testPassword",
-  "smtpserver": "outlook.office365.com",
+  "smtpserver": "test.test.com",
   "smtpportnumber": "587"
 }
